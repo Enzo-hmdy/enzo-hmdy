@@ -14,6 +14,7 @@ On my profile, you will find projects that showcase my skills in Python and C, a
     - A game in Python
     - A networked game in C
     - Machine learning models for a recommendation algorithm for Twitch and a frequency prediction model for a bar.
+    - A creation of 3 CTF for a competion of CTF for my university
 
 <!--
 **Enzo-hmdy/enzo-hmdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
