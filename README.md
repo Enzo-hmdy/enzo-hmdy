@@ -11,10 +11,15 @@ On my profile, you will find projects that showcase my skills in Python and C, a
 
 - I have experience in Python and C programming, as well as machine learning.
 - Examples of my work include:
-    - A game in Python
-    - A networked game in C
-    - Machine learning models for a recommendation algorithm for Twitch and a frequency prediction model for a bar.
-    - A creation of 3 CTF for a competion of CTF for my university
+    - A game in Python with a network in C : https://github.com/Enzo-hmdy/dungeons-dragons-online 
+    - Machine learning models for a recommendation algorithm for Twitch and a frequency prediction model for a bar. https://github.com/Enzo-hmdy/projetIA
+    - A creation of 3 CTF for a competion of CTF for my university : https://github.com/Enzo-hmdy/Projet_INF876
+    - Exploration of divers GUI framework in python, with divers POC in order to say if a student of game dev is feasable with theses projets : https://github.com/Makelonn/projet_app
+    - A POC to do a wikipedia on blockchain using multichain : https://github.com/Enzo-hmdy/Projet_INF876
+    - Divers works that i did in machine learning & other at school
+
+
+
 
 <!--
 **Enzo-hmdy/enzo-hmdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
