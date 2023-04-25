@@ -1,6 +1,7 @@
 ### Hi there 👋
+<!---
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=enzo-hmdy&show_icons=true&count_private=true)
-
+-->
 # Introduction
 
 Hi, I'm Enzo Hmdy and I'm a student in IT with a focus on cybersecurity and machine learning.
