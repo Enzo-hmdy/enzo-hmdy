@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=enzo-hmdy&show_icons=true)
+![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=enzo-hmdy&show_icons=true&count_private=true)
 
 # Introduction
 
