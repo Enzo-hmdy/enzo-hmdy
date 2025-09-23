@@ -21,6 +21,8 @@ On my profile, you will find projects that showcase my skills in Python and C, a
     - A POC to do a wikipedia on blockchain using multichain : https://github.com/Enzo-hmdy/Projet_INF876
     - Divers works that i did in machine learning & other at school
 
+Some of my project are under NDA ou are published feel free to reach me. 
+
 
 
 
