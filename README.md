@@ -19,7 +19,9 @@ On my profile, you will find projects that showcase my skills in Python and C, a
     - Exploration of divers GUI framework in python, with divers POC in order to say if a student of game dev is feasable with theses projets : https://github.com/Makelonn/projet_app
     - A POC to do a wikipedia on blockchain using multichain : https://github.com/Enzo-hmdy/Projet_INF876
     - Divers works that i did in machine learning & other at school
-   
+
+
+   UQAC{Check_my_project_Big_are_privates}
 
 
 
