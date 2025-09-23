@@ -4,7 +4,8 @@
 
 # Introduction
 
-Hi, I'm Enzo Hmdy and I'm a student in IT with a focus on cybersecurity and machine learning.
+Hi, I'm Enzo Hmdy and I'm a PHD student in IT with a focus on AI Security.
+I also have a engenerring 
 
 On my profile, you will find projects that showcase my skills in Python and C, as well as my experience with machine learning.
 
