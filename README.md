@@ -21,7 +21,6 @@ On my profile, you will find projects that showcase my skills in Python and C, a
     - Divers works that i did in machine learning & other at school
 
 
-   UQAC{Check_my_project_Big_are_privates}
 
 
 
