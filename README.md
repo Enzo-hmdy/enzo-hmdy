@@ -9,11 +9,11 @@ I am a PhD candidate at **UQAC** specializing in the intersection of **Deep Lear
 
 ## 🔬 Featured Research & Publications
 
-### [Computers, Materials & Continua (CMC) Journal]
-**[CMC_Iot](https://github.com/Enzo-hmdy/CMC_Iot): A Comparative Benchmark of ML & DL for IoT Cyberattack Detection**
-* **Context:** Official implementation for my peer-reviewed paper published in the **CMC Journal (2026)**.
-* **Scope:** Benchmarking Random Forest, XGBoost, CNNs, and LSTMs for intrusion detection in IoT ecosystems using the CICIoT2023 dataset.
-* **Key Achievement:** Optimized Deep Learning architectures to reach 96% recall in threat detection.
+### [Deep Learning Security & IoT Monitoring]
+**[CMC_Iot](https://github.com/Enzo-hmdy/CMC_Iot): From Conference Prototype to Journal Extension**
+* **Journal Publication (2026):** *"A Comparative Benchmark of Machine and Deep Learning for Cyberattack Detection in IoT Networks"* in **Computers, Materials & Continua (CMC)**. [Link to Paper](https://doi.org/10.32604/cmc.2025.074897)
+* **Conference Publication (2024):** *"Deep Learning-Based Intrusion Detection System for IoT Environments"* in **IEEE DASC**. [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10798714)
+* **Impact:** Developed and benchmarked a complete ecosystem for IoT security, evolving from an initial IDS prototype (DASC) to a comprehensive ML/DL comparative framework (CMC) reaching 96% recall.
 
 ---
 
