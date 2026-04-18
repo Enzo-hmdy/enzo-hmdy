@@ -1,28 +1,46 @@
 ### Hi there 👋
 
-![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=enzo-hmdy&show_icons=true&count_private=true)
+# Hi, I’m Enzo Hoummady 👋 
+### PhD Researcher in AI Security | Cybersecurity Engineer
 
-# Introduction
+I am a PhD candidate at **UQAC** specializing in the intersection of **Deep Learning** and **Cybersecurity**. My research focuses on building robust AI architectures and detecting structural vulnerabilities that lead to model inversion, extraction, and poisoning.
 
-Hi, I'm Enzo Hmdy and I'm a PHD student in IT with a focus on AI Security.
-I also have a engenerring 
+---
 
-On my profile, you will find projects that showcase my skills in Python and C, as well as my experience with machine learning.
+## 🔬 Featured Research & Publications
 
-# Skills and expertise
+### [Computers, Materials & Continua (CMC) Journal]
+**[CMC_Iot](https://github.com/Enzo-hmdy/CMC_Iot): A Comparative Benchmark of ML & DL for IoT Cyberattack Detection**
+* **Context:** Official implementation for my peer-reviewed paper published in the **CMC Journal (2026)**.
+* **Scope:** Benchmarking Random Forest, XGBoost, CNNs, and LSTMs for intrusion detection in IoT ecosystems using the CICIoT2023 dataset.
+* **Key Achievement:** Optimized Deep Learning architectures to reach 96% recall in threat detection.
 
-- I have experience in Python and C programming, as well as machine learning.
-- Examples of my work include:
-    - A game in Python with a network in C : https://github.com/Enzo-hmdy/dungeons-dragons-online 
-    - Machine learning models for a recommendation algorithm for Twitch and a frequency prediction model for a bar. https://github.com/Enzo-hmdy/projetIA
-    - Prediction of network attack with divers LSTM and RNN models on a own dataset and malware scripts : https://github.com/Enzo-hmdy/Secu_IOT_UQAC2
-    - A creation of 3 CTF for a competion of CTF for my university : [CTF](https://github.com/Enzo-hmdy/Projet_secu_INSA2021)
-    - Exploration of divers GUI framework in python, with divers POC in order to say if a student of game dev is feasable with theses projets : https://github.com/Makelonn/projet_app
-    - A POC to do a wikipedia on blockchain using multichain : https://github.com/Enzo-hmdy/Projet_INF876
-    - Divers works that i did in machine learning & other at school
+---
 
-Some of my project are under NDA ou are published feel free to reach me. 
+## 🛡️ AI Security & Robustness Projects
+* **[Secu_IOT_UQAC2](https://github.com/Enzo-hmdy/Secu_IOT_UQAC2):** Advanced attack detection using custom **LSTM and RNN** models. Includes research on malware scripts and IoT-specific threat vectors.
+* **DL Anti-Pattern Framework:** (Research in Progress) Developing a diagnostic framework to detect architectural weaknesses in Deep Learning models.
+* **CTF Architect:** Created 3 specialized Capture The Flag (CTF) challenges for university competitions, focusing on network exploitation.
+* ** CTF_UQAC** I also created more than 100 challenges of Cybersecurity for the CTF of my univeristy all hosted on GCP using KCTF framwork
 
+## 🤖 Machine Learning & Systems
+* **[Recommendation Systems](https://github.com/Enzo-hmdy/projetIA):** Twitch recommendation algorithms and hospitality frequency prediction models.
+* **[Hybrid D&D Online](https://github.com/Enzo-hmdy/dungeons-dragons-online):** A technical demonstration of cross-language integration: **Python** game engine with a **C-based** network backend.
+* **[Blockchain Wiki](https://github.com/Enzo-hmdy/Projet_INF876):** A decentralized Proof of Concept for a Wikipedia-style platform built on **Multichain**.
+
+---
+
+## 🧰 Technical Stack
+* **Core Languages:** Python (Advanced), C/C++, Bash, SQL.
+* **AI/ML Libraries:** TensorFlow, Scikit-learn, Pandas, Numpy.
+* **Cybersecurity:** Network Security (Pfsense, Clavister), Pentesting, SOC Monitoring.
+
+---
+
+## 📬 Academic & Professional Contact
+* **Current Role:** PhD Candidate at [Université du Québec à Chicoutimi (UQAC)](https://www.uqac.ca/)
+* **Education:** Dual Degree — Engineering (INSA Centre Val de Loire) & M.Sc. (UQAC).
+* **Note:** Much of my current research regarding architectural vulnerabilities is under **NDA** or awaiting peer-review. Please reach out for collaboration or inquiries!
 
 
 
