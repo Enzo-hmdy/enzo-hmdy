@@ -21,7 +21,7 @@ I am a PhD candidate at **UQAC** specializing in the intersection of **Deep Lear
 * **[Secu_IOT_UQAC2](https://github.com/Enzo-hmdy/Secu_IOT_UQAC2):** Advanced attack detection using custom **LSTM and RNN** models. Includes research on malware scripts and IoT-specific threat vectors.
 * **DL Anti-Pattern Framework:** (Research in Progress) Developing a diagnostic framework to detect architectural weaknesses in Deep Learning models.
 * **CTF Architect:** Created 3 specialized Capture The Flag (CTF) challenges for university competitions, focusing on network exploitation.
-* ** CTF_UQAC** I also created more than 100 challenges of Cybersecurity for the CTF of my univeristy all hosted on GCP using KCTF framwork
+* **CTF_UQAC:** I also created more than 100 challenges of Cybersecurity for the CTF of my univeristy all hosted on GCP using KCTF framwork it's in a private repo because i might reuse some of the chall but feel free to reach out i could share them with you (they all are docker with NSjail config etc realy to deploy). 
 
 ## 🤖 Machine Learning & Systems
 * **[Recommendation Systems](https://github.com/Enzo-hmdy/projetIA):** Twitch recommendation algorithms and hospitality frequency prediction models.
